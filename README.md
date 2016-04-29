@@ -7,3 +7,13 @@ This repository only contains the final released document. Source files for thes
    https://github.com/devicetree-org/devicetree-specification
 
 Please see http://devicetree.org for more information.
+
+Mailing list:
+   devicetree-spec@vger.kernel.org
+   http://vger.kernel.org/vger-lists.html#devicetree-spec
+   
+## License ##
+This project is licensed under the Apache V2 license. More information can be found 
+in the LICENSE and NOTICE file or online at:
+
+http://www.apache.org/licenses/LICENSE-2.0
